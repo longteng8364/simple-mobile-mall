@@ -1,0 +1,189 @@
+{
+    "list":[
+        {   
+            "id": "1",
+            "name": "AK47-红线",
+            "imgurl": [ "http://localhost:8080/src/img/ak.jpg", "http://localhost:8080/src/img/ak.jpg", "http://localhost:8080/src/img/ak.jpg", "http://localhost:8080/src/img/ak.jpg", "http://localhost:8080/src/img/ak.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"久经沙场" ,
+                    "price": "88",
+                    "quantity": "3"
+                }
+            ]
+
+        },
+        {
+            "id": "2",
+            "name": "AWP-巨龙传说",
+            "imgurl": ["http://localhost:8080/src/img/awp.jpg","http://localhost:8080/src/img/awp.jpg","http://localhost:8080/src/img/awp.jpg","http://localhost:8080/src/img/awp.jpg","http://localhost:8080/src/img/awp.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"崭新出厂" ,
+                    "price": "10000",
+                    "quantity": "30"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"略有磨损" ,
+                    "price": "8999",
+                    "quantity": "1"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"久经沙场" ,
+                    "price": "6999",
+                    "quantity": "2"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"破损不堪" ,
+                    "price": "6000",
+                    "quantity": "0"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"战痕累累" ,
+                    "price": "5000",
+                    "quantity": "4"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "鲍伊-猎刀",
+            "imgurl": ["http://localhost:8080/src/img/bowie.jpg","http://localhost:8080/src/img/bowie.jpg","http://localhost:8080/src/img/bowie.jpg","http://localhost:8080/src/img/bowie.jpg","http://localhost:8080/src/img/bowie.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"崭新出厂" ,
+                    "price": "2300",
+                    "quantity": "6"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"久经沙场" ,
+                    "price": "1600",
+                    "quantity": "7"
+                }
+            ]
+        },
+        {   
+            "id": "4",
+            "name": "Glock18-水灵",
+            "imgurl": ["http://localhost:8080/src/img/glock.jpg","http://localhost:8080/src/img/glock.jpg","http://localhost:8080/src/img/glock.jpg","http://localhost:8080/src/img/glock.jpg","http://localhost:8080/src/img/glock.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"崭新出厂" ,
+                    "price": "145",
+                    "quantity": "4"
+                },
+                {
+                    "nid": "商品库存id",
+                    "spect":"略有磨损" ,
+                    "price": "46",
+                    "quantity": "5"
+                }
+            ]
+
+        },
+        {
+            "id": "5",
+            "name": "爪子刀-深红之网",
+            "imgurl": ["http://localhost:8080/src/img/knife.jpg","http://localhost:8080/src/img/knife.jpg","http://localhost:8080/src/img/knife.jpg","http://localhost:8080/src/img/knife.jpg","http://localhost:8080/src/img/knife.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"崭新出厂" ,
+                    "price": "62300",
+                    "quantity": "0"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"久经沙场" ,
+                    "price": "6000",
+                    "quantity": "-2"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "M4A1-s-二西莫夫",
+            "imgurl": ["http://localhost:8080/src/img/m4a1.jpg","http://localhost:8080/src/img/m4a1.jpg","http://localhost:8080/src/img/m4a1.jpg","http://localhost:8080/src/img/m4a1.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"崭新出厂" ,
+                    "price": "360",
+                    "quantity": "8"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"略有磨损" ,
+                    "price": "260",
+                    "quantity": "7"
+                }
+            ]
+        },{   
+            "id": "7",
+            "name": "P90",
+            "imgurl": ["http://localhost:8080/src/img/p90.jpg","http://localhost:8080/src/img/p90.jpg","http://localhost:8080/src/img/p90.jpg","http://localhost:8080/src/img/p90.jpg","http://localhost:8080/src/img/p90.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"略有磨损" ,
+                    "price": "35",
+                    "quantity": "5"
+                },
+                {
+                    "nid": "商品库存id",
+                    "spect":"战痕累累" ,
+                    "price": "20",
+                    "quantity": "6"
+                }
+            ]
+
+        },
+        {
+            "id": "8",
+            "name": "P250",
+            "imgurl": ["http://localhost:8080/src/img/p250.jpg","http://localhost:8080/src/img/p250.jpg","http://localhost:8080/src/img/p250.jpg","http://localhost:8080/src/img/p250.jpg","http://localhost:8080/src/img/p250.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"久经沙场" ,
+                    "price": "20",
+                    "quantity": "7"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"破损不堪" ,
+                    "price": "10",
+                    "quantity": "9"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "USP-猎户",
+            "imgurl": ["http://localhost:8080/src/img/usp.jpg","http://localhost:8080/src/img/usp.jpg","http://localhost:8080/src/img/usp.jpg","http://localhost:8080/src/img/usp.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"崭新出厂" ,
+                    "price": "200",
+                    "quantity": "10"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"久经沙场" ,
+                    "price": "56",
+                    "quantity": "6"
+                }
+            ]
+        }
+    ]
+}
